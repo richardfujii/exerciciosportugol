@@ -13,7 +13,7 @@ programa
 		se (P>50)
 		{
 			E=P - 50
-			M=E*4.0
+			M=E*5.0
 			escreva("\nVocê excedeu em: ",E," quilos.")
 			escreva("\nVocê deverá pagar: ",M," reais de multa.")
 		
